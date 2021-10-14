@@ -1,6 +1,6 @@
 # Supplementary materials for the paper 'Finny Merchandise: The Atlantic Cod (_Gadus morhua_) Trade in Gold Rush-Era San Francisco, California'
 
-This repository contains the data and code for our paper:
+This repository contains the data and code for our a single figure (Figure 6) from the following paper:
 
 > Conrad, C.[![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-4659-2884), DeSilva, U., Bingham, B., Kemp, B.M., Gobalet, K.W., Bruner, K. and Pastron, A.G. in press. Finny Merchandise: The Atlantic Cod (_Gadus morhua_) Trade in Gold Rush-Era San Francisco, California. *Journal of Anthropological Research*.
 
